@@ -1,0 +1,14 @@
+body{
+    width:300px;
+    padding:15px;
+    font-family:Arial,sans-serif;
+}
+
+h2{
+    text-align:center;
+    color:#2563eb;
+}
+
+#report{
+    margin-top:10px;
+}
